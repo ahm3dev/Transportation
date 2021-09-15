@@ -23,7 +23,7 @@ Reserve class that holds assignments of employees and vehicles by IDs:
 - vehcile ID
 - reservation date -> date of the assignment.
 
-##Instructions
+## Instructions
 There are 5 Vehicle objects, 3 Cars, and 2 Aeroplanes
 There are 5 Employees objects, 3 Drivers, and 2 Pilots
 There is a function: checkCompatibility that takes employee ID and vehicle ID
