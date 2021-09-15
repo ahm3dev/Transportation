@@ -6,18 +6,24 @@ Vehicle class with shared properties:
 - Vehicle Type
 - Manufacturer
 - Vehicle ID
+
 Car class that inherits Vehicle class with special properties:
 - Car type
+
 Aeroplane class that inherits Vehicle class with special properties:
 - Plane type
+
 Employee class with shared properties:
 - name
 - date of birth
 - ID
+
 Driver class that inherits Employee with special properties:
 - drivers license ID
+
 Pilot class that inherits Employee with special properties:
 - pilots license ID
+
 Reserve class that holds assignments of employees and vehicles by IDs:
 - employee ID
 - vehcile ID
